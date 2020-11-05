@@ -6,7 +6,4 @@ This is Sparta
 I'm lovin' it
 I'm in develop
 
-Я пишу из файла девелопер
-Lolololololololo!!!!
-dfgfd
-sdfgsdfgsdfg вапрвапрвапрвапрвап
+I write from my develop branch and I think that all u need is love!
